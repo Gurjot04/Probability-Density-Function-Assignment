@@ -42,11 +42,12 @@ Estimate lambda, mu, c using optimization functions such as curve_fit or likelih
 
 | Parameter | Estimated Value |
 | --------- | --------------- |
-| lambda    | value           |
-| mu        | value           |
-| c         | value           |
+| lambda    | 0.0014617052940514906          |
+| mu        | 25.818063543032295             |
+| c         | 0.021570239817484047           |
 
 ### Graph Interpretation
+<img width="708" height="470" alt="image" src="https://github.com/user-attachments/assets/a2e7e36e-685b-49f7-a463-d1045fcb9d77" />
 
 * Histogram shows the empirical shape of transformed z.
 * PDF curve shows the fitted model.
